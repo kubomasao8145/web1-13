@@ -111,6 +111,6 @@ function setCookie(c_name,value,expiredays){
                  
                  document.getElementById("bigimg").src='img/' + this.dataset.image+'.jpg';
                }
-           }
+           
            
            
