@@ -81,7 +81,7 @@ function setCookie(c_name,value,exporedays){
            document.getElementById('cookie').textContent='はじめまして';
            }
            
-           vasr current_time= new Date();
+           var current_time= new Date();
            
            setCookie('lastDate',current_time.toString().7);
            
