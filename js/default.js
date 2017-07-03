@@ -10,7 +10,7 @@ var separate_time=function(time){
 }
 
  var now = new Date();
-var counter=eparate_time(now);
+var counter=separate_time(now);
 
 dovment.getElementById('form').select.onchange=function(){
    location.href=dicument.getElementById('form').select.value; 
