@@ -24,7 +24,8 @@ if(filename === 'other.html'){
    opt=document.querySelector(option[value="index.html"]');
 }
    opt.selected=true;
-}
+
+                              
 document.getElementById('form').select.onchange=function(){
    location.href=dicument.getElementById('form').select.value; 
 
