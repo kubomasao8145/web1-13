@@ -50,7 +50,7 @@ function setCookie(c_name,value,exporedays){
            s+="; expires="+exdate+";";
            
            }else{
-           s+=";;
+           s+=";";
            }
            document.cookie=s;
            }
