@@ -29,7 +29,7 @@ if(filename === 'other.html'){
 document.getElementById('form').select.onchange=function(){
    location.href=dicument.getElementById('form').select.value; 
 
-
+}
 
 var update= function(){
   
