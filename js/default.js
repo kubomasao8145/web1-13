@@ -27,7 +27,7 @@ if(filename === 'other.html'){
 
                               
 document.getElementById('form').select.onchange=function(){
-   location.href=dicument.getElementById('form').select.value; 
+   location.href=document.getElementById('form').select.value; 
 
 }
 
